@@ -1,3 +1,4 @@
+**Live App:** [fashiontrendsbydikshyapant.streamlit.app](https://fashiontrendsbydikshyapant.streamlit.app)
 # Fashion & Beauty Trend Tracker
 
 A weekly fashion & beauty trend tracker that identifies trending styles 
